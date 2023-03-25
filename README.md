@@ -14,6 +14,13 @@ entry, etc.
 # Introduction
 Digit recognition system is the working of a machine to train itself or recognizing the digits from different sources like emails, bank cheque, papers, images, etc. and in different real-world scenarios for online handwriting recognition on computer tablets or system, recognize number plates of numeric entries in forms filled up by hand and so on.
 
+# How we built it?
+This **AI model** has been programmed in python language. Many new libraries has been used such as tensorflow, opencv, matplotlib, numpy, keras.
+* Keras- It allows you to define and train neural network models in just a few lines of code.
+* Tensorflow- It is a foundation library that can be used to create Deep Learning models directly or by using wrapper libraries that simplify the process built on top of TensorFlow.
+* Numpy- It is a library consisting of multidimensional array objects and a collection of routines for processing those arrays.
+* Matplotlib- It provides an object-oriented API for embedding plots into applications.
+* Opencv- It is a Python library that allows you to perform image processing and computer vision tasks. 
 
 # Advantages of this system
 1) The system not only produces a classification of the digit but also a rich description of the instantiation parameters which can yield information such as the writing style.
